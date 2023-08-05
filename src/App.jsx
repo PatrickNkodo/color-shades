@@ -38,7 +38,7 @@ function App() {
   return (
     <>
       <section className='container'>
-        <h3>Color Balance</h3>
+        <h3>My Color Shades</h3>
         <div className="">
         <form onSubmit={handleSubmit}>
           <input
